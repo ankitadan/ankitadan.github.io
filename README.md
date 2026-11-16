@@ -6,15 +6,6 @@ A responsive, dark-themed personal portfolio built with plain HTML, CSS, and Jav
 
 Open `index.html` in your browser. No build tools or package installation are required.
 
-## Add your profile photo
-
-1. Choose a professional headshot.
-2. Rename it to **`profile-photo.jpg`**.
-3. Place it in the `assets/` folder, next to `profile-placeholder.svg`.
-4. The page will automatically show your photo instead of the placeholder.
-
-Use a portrait-oriented image; the page crops it to fit the photo frame.
-
 ## Add your resume
 
 If you want a resume link on the site, put your current PDF in `assets/` as `resume.pdf` and add a link in the hero or contact section. I have not included a resume download link because no current resume PDF was supplied with this build.
@@ -43,4 +34,3 @@ A first deployment can take several minutes.
 - `index.html` — portfolio content and structure
 - `style.css` — responsive dark visual design
 - `script.js` — mobile navigation and current footer year
-- `assets/profile-placeholder.svg` — temporary image shown until you add `profile-photo.jpg`
