@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 760" role="img" aria-label="Add your profile photo here">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1c4960"/><stop offset="1" stop-color="#29234e"/></linearGradient></defs>
-  <rect width="600" height="760" fill="url(#g)"/>
-  <circle cx="300" cy="275" r="115" fill="#9db9c5" opacity=".85"/>
-  <path d="M85 760c15-180 100-275 215-275s200 95 215 275" fill="#9db9c5" opacity=".85"/>
-  <text x="300" y="690" text-anchor="middle" fill="#e8ffff" font-family="Arial,sans-serif" font-size="22" letter-spacing="5">ADD YOUR PHOTO</text>
-</svg>
